@@ -1,0 +1,8 @@
+Jurgen;Klopp;16-06-1967;8.0;1800000;5;true
+Zinedine;Zidane;23-06-1972;7.0;1600000;4;false
+Carlo;Ancelotti;10-06-1959;8.0;1400000;2;false
+Luis;Enrique;08-05-1970;8.0;1700000;6;true
+Josep;Lluís Núñez;07-09-1931;6.0;1200000;1;false
+Vicente;del Bosque;23-12-1950;7.0;1300000;2;true
+Alex;Ferguson;31-12-1941;9.0;1600000;3;false
+Marcelo;Bielsa;21-07-1955;8.0;1400000;4;true

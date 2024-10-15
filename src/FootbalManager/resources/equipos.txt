@@ -1,0 +1,52 @@
+FC Barcelona;1899;Barcelona;Spotify Camp Nou;Joan Laporta;11
+Pep;Guardiola;18-01-1971;10.0;2000000;7;false
+Lionel;Messi;24-06-1987;9.0;10000000;10;MIG;92.0;true
+Sergio;Ramos;30-03-1986;8.0;8500000;4;DEF;88.0;true
+Kevin;De Bruyne;28-06-1991;9.0;9000000;7;MIG;89.0;true
+Jan;Oblak;07-01-1993;9.0;7000000;1;POR;93.0;true
+Robert;Lewandowski;21-08-1988;8.0;9500000;9;DAV;90.0;true
+Virgil;van Dijk;08-07-1991;8.0;8000000;3;DEF;87.0;true
+Frenkie;de Jong;12-05-1997;9.0;7500000;8;MIG;88.0;true
+Alisson;Becker;02-10-1992;9.0;8500000;22;POR;91.0;true
+Marquinhos;Aóas;25-05-1994;9.0;7500000;5;DEF;86.0;true
+Mohamed;Salah;15-06-1992;9.0;10000000;11;MIG;90.0;true
+Joshua;Kimmich;08-02-1995;9.0;8000000;2;DEF;85.0;true
+Real Madrid;1902;Madrid;Santiago Bernabéu;Florentino Pérez;11
+Diego;Simeone;28-04-1970;9.0;1500000;3;true
+N'Golo;Kanté;29-03-1991;9.0;9000000;6;MIG;88.0;true
+Ederson;Moraes;17-08-1993;8.0;8000000;13;POR;89.0;true
+Aymeric;Laporte;27-05-1994;8.0;7500000;14;DEF;87.0;true
+Bruno;Fernandes;08-09-1994;9.0;9500000;20;MIG;88.0;true
+Andrew;Robertson;11-03-1994;8.0;7000000;23;DAV;86.0;true
+Gianluigi;Donnarumma;25-02-1999;9.0;8500000;16;POR;90.0;true
+Rui;Patricio;15-02-1988;9.0;8500000;39;POR;90.0;true
+Mats;Hummels;16-12-1988;8.0;8000000;40;DEF;87.0;true
+Gareth;Bale;16-07-1989;9.0;7500000;41;MIG;88.0;true
+Alessandro;Florenzi;11-03-1991;8.0;7000000;42;DAV;85.0;true
+Bernd;Leno;04-03-1992;9.0;9500000;43;POR;91.0;true
+Betis;1907;Sevilla;Benito Villamarín;Ángel Haro;11
+Antonio;Conte;31-07-1969;8.0;1500000;5;false
+Nicolás;Tagliafico;31-08-1992;8.0;9000000;44;DEF;88.0;true
+Phil;Foden;28-05-2000;9.0;8500000;45;MIG;89.0;true
+Šime;Vrsaljko;10-01-1992;8.0;8000000;46;DAV;86.0;true
+Kasper;Schmeichel;05-11-1986;9.0;7500000;47;POR;90.0;true
+Andrew;Robertson;11-03-1994;8.0;7000000;48;DEF;87.0;true
+Koke;Resurrección;08-01-1992;9.0;9500000;49;MIG;88.0;true
+Danilo;Pereira;09-09-1991;8.0;9000000;50;DAV;86.0;true
+Yann;Sommer;17-12-1988;9.0;8500000;51;POR;91.0;true
+Ben;Chilwell;21-12-1996;8.0;8000000;52;DEF;88.0;true
+Rodri;Hernández;22-06-1996;9.0;7500000;53;MIG;89.0;true
+Lucas;Digne;20-07-1993;8.0;7000000;54;DAV;86.0;true
+Espanyol;1900;Barcelona;RCDE Stadium;Chen Yansheng;11
+Fabio;Capello;18-06-1946;7.0;1200000;2;true
+Gianluigi;Buffon;28-01-1978;9.0;9500000;55;POR;90.0;true
+Presnel;Kimpembe;13-08-1995;8.0;9000000;56;DEF;87.0;true
+Saul;Niguez;21-11-1994;9.0;8500000;57;MIG;88.0;true
+Ricardo;Pereira;06-10-1993;8.0;8000000;58;DAV;86.0;true
+Roman;Bürki;14-11-1990;9.0;7500000;59;POR;91.0;true
+Matthijs;de Ligt;12-08-1999;8.0;7000000;60;DEF;88.0;true
+Alessandro;Florenzi;11-03-1991;8.0;7000000;66;DAV;85.0;true
+Nelson;Semedo;16-11-1993;8.0;9000000;62;DAV;86.0;true
+Rui;Patricio;15-02-1988;9.0;8500000;63;POR;90.0;true
+Mats;Hummels;16-12-1988;8.0;8000000;64;DEF;87.0;true
+Gareth;Bale;16-07-1989;9.0;7500000;65;MIG;88.0;true
